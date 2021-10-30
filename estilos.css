@@ -28,6 +28,7 @@ body{
     align-items: center;
 }
 #index p{
+    text-align: center;
     font-size: 4rem;
     font-family: 'Open Sans', sans-serif;
 }
@@ -199,6 +200,8 @@ ul.show {
         width: 746.6px;
         height: 420px;
     }
+    #index p{
+        font-size: 3rem;}
 }
 @media screen and (max-width: 768px) {
     .menu {
@@ -241,6 +244,8 @@ ul.show {
         width: 660px;
         height: 315px;
     }
+    #index p{
+        font-size: 2rem;}
 }
 @media screen and (max-width: 544px) and (orientation: landscape) {
     .menu_items li{
