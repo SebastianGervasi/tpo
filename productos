@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">    
+    <script src="https://kit.fontawesome.com/381d8c27d9.js" crossorigin="anonymous"></script>    
+    <link rel="stylesheet" href="estilos.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <nav class="menu">
+        <label class="logo">MiBoxRegalos</label>
+        <ul class="menu_items">
+            <li><a href="index.html">Inicio</a></li>
+            <li class="active"><a href="productos.html">Productos</a></li>
+            <li><a href="tutorial.html">Tutorial</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+        <span class="btn_menu">
+            <i class="fa fa-bars"></i>
+        </span>
+    </nav>
+    <section class="section margen-interno">
+        <div class="articulos">
+            <article class="article">
+                <img src="/imagenes/taza1.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Mapa</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza2.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Expresso Patronum</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza3.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Baritas</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza4.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Leviosa</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza5.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Accio Cafe</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza6.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Harry</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza7.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Gryffindor</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza8.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Hufflepuff</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza9.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Slytherin</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza10.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Ravenclaw</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/taza11.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Muggle</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+            <article class="article">
+                <img src="/imagenes/harry.png">
+                <h2>HARRY POTTER</h2>
+                <p>Taza Gryffindor v2</p>
+                <a href="#">AL CARRITO <i class="fas fa-shopping-cart"></i></a>
+            </article>
+        </div>
+    </section>
+    <footer>
+        <div class="sm-handle">
+            <a href="https://instagram.com/miboxregalos" class="sm-button">
+                <i class="fab fa-instagram"></i>
+            </a>
+            <a href="https://facebook.com/miboxregalos" class="sm-button">
+                <i class="fab fa-facebook"></i>
+            </a>
+        </div>
+        </div>
+        <p class="copyright"><a href="https://instagram.com/sebagervasi">Sebastian Gervasi</a>
+        </p>
+    </footer>
+</body>
+</html>
